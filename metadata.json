@@ -1,0 +1,8 @@
+{
+  "name": "CloudConnect CRM",
+  "description": "A professional Call Center CRM with built-in WebRTC calling, opportunity management, and AI-powered insights.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
